@@ -12,7 +12,7 @@ Capstone Project for Daytime Data Analytics Cohort #7 program at Nashville Softw
 # Where are all of the tourists staying in Nashville?
 
 ## Motivation
-As a local Nashvillian, I have seen the meteoric rise of tourism that has occured over the last two decades.  The countless new hotels that have been built across the city are a sign of the influx of tourists, which had me wondering about how many Airbnbs Nashville has. If hotels are a visible representation of tourism, Airbnbs are their invisible equivalent. Seeing the hotels sparked the question of how many Airbnb properties exist in Nashville and who is profiting off the short term rental permits?
+As a local Nashvillian, I have seen the meteoric rise of tourism that has occured over the last two decades.  The countless new hotels that have been built across the city are a sign of the influx of tourists, which had me wondering about how many Airbnbs Nashville has. If hotels are a visible representation of tourism, Airbnbs are their invisible equivalent. Seeing the hotels sparked the question of how many Airbnb properties exist in Nashville and who is holds the majority of the short term rental permits?
 
 ## Technologies
 For a majority of this analysis, I used Python 3 within a Jupyter Notebook. The data was extracted from Data.Nashville.gov and can be found here: https://data.nashville.gov/Licenses-Permits/Residential-Short-Term-Rental-Permits/2z82-v8pm as a CSV file and imported into Excel and Jupyter for data cleaning. After cleaning the data, I used Python & Excel for the analysis and then PowerPoint to create a presentation.
@@ -36,11 +36,10 @@ One of my main questions was trying to see how many Nashvillians/Tennesseans hol
 After finding some companies that have more than 20 permits, I finally wanted to discover how many applicants held multiple permits. The companies and individuals with 20+ permits are impressive, but I found that it is not the norm. Only 14% of all applicants have 2 or more permits, but 86% of applicants hold one permit.
 
 ## Issues and Challenges
-The primary challenge I faced was with cleaning the data as some of the permits are held by Canadians, and Canadian zip codes involve both letters and numbers. 
+The primary challenge I faced was with cleaning the data as some of the permits are held by Canadians, and Canadian zip codes involve both letters and numbers.
 
 ## Acknowledgements
 It is challenging to find powerful enough words to describe my gratitude for the instructors and staff at Nashville Software School.
 * A huge thank you to the instructors, Chris Wright and Joshua Rio-Ross, for answering all questions and making us understand that error messages are helpful, guiding hits to success.
-* Thank you to all of the wonderful TA’s: Olariche Obi, Patrick Manning, and Sobiya Uddin
-* And Michael Holloway for always providing helpful feedback
+* Thank you to all of the wonderful TA’s: Olariche Obi, Patrick Manning, and Sobiya Uddin, and to Michael Holloway for always providing helpful feedback.
 * And a big thank you to John Wark, Founder and CEO, and all staff of NSS for their commitment to providing opportunities to those who are underrepresented in technology fields. They have created an incredible organization.
