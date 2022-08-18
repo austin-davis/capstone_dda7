@@ -36,7 +36,7 @@ One of my main questions was trying to see how many Nashvillians/Tennesseans hol
 After finding some companies that have more than 20 permits, I finally wanted to discover how many applicants held multiple permits. The companies and individuals with 20+ permits are impressive, but I found that it is not the norm. Only 14% of all applicants have 2 or more permits, but 86% of applicants hold one permit.
 
 ## Issues and Challenges
-The primary challenge I faced was with cleaning the data as some of the permits are held by Canadians, and Canadian zip codes involve both letters and numbers.
+The primary challenge I faced was with cleaning the data as some of the permits are held by Canadians, and Canadian zip codes involve both letters and numbers. 
 
 ## Acknowledgements
 It is challenging to find powerful enough words to describe my gratitude for the instructors and staff at Nashville Software School.
